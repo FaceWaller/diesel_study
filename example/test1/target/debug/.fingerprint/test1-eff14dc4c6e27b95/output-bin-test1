@@ -1,9 +1,0 @@
-warning: #[primary_key] attribute form is deprecated
-  = help: use `#[diesel(primary_key(user_id))]` instead
-
-warning: #[primary_key] attribute form is deprecated
-  = help: use `#[diesel(primary_key(user_id))]` instead
-
-warning: #[primary_key] attribute form is deprecated
-  = help: use `#[diesel(primary_key(user_id))]` instead
-
