@@ -1,0 +1,8 @@
+[package]
+name = "test1"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+diesel_study = {path = '../../'}
+diesel ={ version = "2.2.2",  features = ["sqlite", "r2d2"]}
